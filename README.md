@@ -1,7 +1,7 @@
 # ATM-AND-BANKING-SYSTEM
-# Reg No:
-# Name:
-# Date:
+# Reg No: 212224220012 
+# Name: Ashwath p
+# Date: 16-05-2026
 
 
 # AIM:
@@ -49,8 +49,8 @@ Specifying the context and requirements of a system
 → Modeling the basic flow of events in a sina use case.
 
 
-
-
+# USE CASE DIAGRAM:
+<img width="1258" height="1032" alt="Screenshot 2026-05-02 091019" src="https://github.com/user-attachments/assets/6e4ef75d-9ae7-4501-ab9b-fa7b7c75858a" />
 
 
 
@@ -68,6 +68,10 @@ Visually express any specific needs of a system and disseminate that information
 
 Create detailed charts that…
 
+# CLASS DIAGRAM:
+<img width="1256" height="1030" alt="Screenshot 2026-05-02 092206" src="https://github.com/user-attachments/assets/8fe0f9fd-7f77-4094-87eb-6e9e8efd8feb" />
+
+
 
 
 # COMMUNICTION DIAGRAM:
@@ -77,6 +81,9 @@ A communication diagram offers the same information as a sequence diagram, but w
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
 
 
+# COMMUNICTION DIAGRAM:
+
+<img width="1242" height="1020" alt="591827124-9678e916-6049-4cec-b481-a1f01283ef21" src="https://github.com/user-attachments/assets/2d9df699-e368-47c3-a1f2-965774120d7a" />
 
 
 # PACKAGE DIAGRAM:
@@ -87,6 +94,8 @@ organization of the layered architecture within any UML classifier, such as a so
 
 A well-designed package diagram provides numerous benefits to those looking to create a visualization of their UML system or project.
 
+# PACKAGE DIAGRAM:
+<img width="1243" height="1017" alt="591827272-ddbf31cd-a6ad-4c24-8405-8bae6a44d5b4" src="https://github.com/user-attachments/assets/9e8ffdae-e9bc-4982-aff0-a623f41da66e" />
 
 
 
@@ -107,6 +116,9 @@ Demonstrate the logic of an algorithm.
 Describe the steps performed in a UML use case.
 
 
+# ACTIVITY DIAGRAM:
+
+<img width="1238" height="1014" alt="591827481-48561d78-fa1e-4a57-886d-fdf100f0ef18" src="https://github.com/user-attachments/assets/f158a60e-3806-4154-8041-306234b94fa7" />
 
 
 
@@ -128,6 +140,9 @@ Model the logic of a sophisticated procedure, function, or operation. See how ob
 Plan and understand the detailed functionality of an existing or future scenario.
 
 
+# SEQUENCE DIAGRAM:
+
+<img width="1259" height="1034" alt="Screenshot 2026-05-02 091239" src="https://github.com/user-attachments/assets/1bf860c3-9f71-4a49-b65a-3f9444c00fbe" />
 
 
 
